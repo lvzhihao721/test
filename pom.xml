@@ -1,0 +1,10 @@
+" ============================================================================  
+" Netrw Directory Listing                                        (netrw v149)
+"   /home/git/cv-template/pom.xml
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:exec
+" ============================================================================
+../
+./
+.swp
